@@ -13,7 +13,7 @@ Explaination video- https://www.youtube.com/watch?v=0MQkkp-YqQY
 Link- https://github.com/Sameersah/CMPE-255/blob/main/Cursor%20AI%20Assisted%20Rest%20API%20Project%20Work
 Explaination- https://www.youtube.com/watch?v=alZ5MqI63GA
 
-## 4. Akkio AutoMl based Pridiction Model
+## 4. Akkio AutoMl based Prediction Model
 Link- https://github.com/Sameersah/CMPE-255/blob/main/Akkio%20AutoML%20based%20survivability%20Prediction%20Model
 Explaination- https://youtu.be/2r7anKYn_Tg
 
